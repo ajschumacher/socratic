@@ -1,0 +1,4 @@
+socratic
+========
+
+Socratic Web project
